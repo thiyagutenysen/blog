@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">blog</string>
+    <string name="login">login</string>
+</resources>
